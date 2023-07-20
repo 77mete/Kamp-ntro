@@ -2,7 +2,7 @@
 using Metodlar;
 
 string urunAdi = "Elma";
-double fiyati  =15;
+double fiyati  = 15;
 string aciklama  = "Amasya Elması";
 
 string[] meyveler = new string[] {"Elma", "Karpuz" };

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Metodlar
 {
-    internal class Urun
+    internal class Product
     {
     }
 }
